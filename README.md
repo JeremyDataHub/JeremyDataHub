@@ -23,8 +23,11 @@ I build applied computer vision systems for sports performance analysis, combini
 ## 🛠️ Technical Stack
 
 **Computer Vision:** OpenCV, YOLO, Pose2Sim, DeepLabCut, Multi-camera calibration
+
 **Data Science:** Python, R, Machine Learning, Signal processing
+
 **Biomechanics:** 3D motion capture (markerless, marker-based, IMU), OpenSim, Force platforms
+
 **Tools:** Git, R Shiny, MySQL
 
 ## 🎓 Background
