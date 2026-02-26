@@ -1,6 +1,6 @@
 # Hi, I'm Jeremy 👋
 
-Data Scientist specializing in human movement analysis — from motion capture pipelines to biomechanical signal processing and applied machine learning in sport and health contexts.
+I build data pipelines for sports science, combining biomechanics, machine learning and computer vision.
 
 ## Featured Projects
 
