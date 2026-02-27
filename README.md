@@ -15,7 +15,7 @@ I build data pipelines for sports science, combining biomechanics, machine learn
 - Bilateral asymmetry quantification (ROM, NSI, cross-correlation)
 - Force plate data processing (AMTI + Kistler, 1000 Hz)
 
-**Markerless Boxing Velocity Estimation** | REVEA Program, M2S Lab (2025)
+**Markerless Boxing Velocity Estimation** | REVEA Program, M2S Laboratory (2025)
 - 3D punch velocity analysis using Pose2Sim
 - Multi-camera calibration and triangulation pipeline
 - Python-based signal processing and peak detection
