@@ -10,12 +10,12 @@ I build data pipelines for sports science, combining biomechanics, machine learn
 - Real-time bounce detection and tactical visualization
 - Deployed in match conditions
 
-**Sports Movement Asymmetry Analysis** | M2S Laboratory, Rennes 2 (2024)
+**Sports Movement Asymmetry Analysis** | M2S Laboratory, Rennes 2 (2025)
 - Full pipeline from Qualisys capture to OpenSim inverse kinematics
 - Bilateral asymmetry quantification (ROM, NSI, cross-correlation)
 - Force plate data processing (AMTI + Kistler, 1000 Hz)
 
-**Markerless Boxing Velocity Estimation** | REVEA Program, M2S Lab (2024)
+**Markerless Boxing Velocity Estimation** | REVEA Program, M2S Lab (2025)
 - 3D punch velocity analysis using Pose2Sim
 - Multi-camera calibration and triangulation pipeline
 - Python-based signal processing and peak detection
