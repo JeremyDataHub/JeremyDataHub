@@ -40,4 +40,4 @@ I build data pipelines for sports science, combining biomechanics, machine learn
 
 - 💼 [LinkedIn](https://linkedin.com/in/birba-jeremy)
 - 📧 jeremy.birba@outlook.fr
-- 📍 Based in France
+- 📍 Based in France | Singapore
