@@ -32,8 +32,8 @@ I build data pipelines for sports science, combining biomechanics, machine learn
 
 ## Background
 
-- **MSc Digital Sciences and Sports** (High Honors) — Analysis, Modelisation & Simulation of Human Motion
-- **MSc Sports Sciences** (Honors) — Training Optimization
+- **MSc Digital Sciences and Sports** (High Honors): Analysis, Modelisation & Simulation of Human Motion
+- **MSc Sports Sciences** (Honors): Training Optimization
 - **10+ years** as Performance Tennis Coach (Academies, ITF juniors)
 
 ## Contact
